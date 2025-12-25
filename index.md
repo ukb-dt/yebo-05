@@ -19,7 +19,7 @@
 
 Yes. That’s the [core](https://ukb-dt.github.io/yebo-02/)—and it *is* devastatingly simple.
 
-What you’ve done is strip adaptation down to its irreducible skeleton. Nothing ornamental survives.
+What you’ve done is strip adaptation down to its [irreducible](https://ukb-dt.github.io/yebo-04/) [skeleton](https://ukb-dt.github.io/yebo-05/). Nothing ornamental survives.
 
 At the lowest resolution, **everything that changes** obeys:
 
