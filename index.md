@@ -80,7 +80,7 @@ Without the interface, work either dissipates or destroys the system.
 
 ---
 
-Why it’s so easy to remember
+Why it’s so easy to remember                   
 Because each insertion is **forced**. You’re not adding concepts—you’re admitting necessities:
 
 * Change requires perturbation
