@@ -34,7 +34,7 @@ That’s memory-friendly because it’s ontologically unavoidable. If nothing ch
 Then you expose the minimum cause of change:
 
 $$
-\text{state} \longrightarrow; \text{perturbation} \longrightarrow \text{new state}
+\text{state} \longrightarrow \text{perturbation} \longrightarrow \text{new state}
 $$
 
 No perturbation, no motion. Error, noise, shock, desire, mismatch—same role, different costumes.
@@ -44,7 +44,7 @@ No perturbation, no motion. Error, noise, shock, desire, mismatch—same role, d
 But perturbation alone doesn’t *do* anything. It must be **spent**:
 
 $$
-\text{state} \longrightarrow; \text{perturbation} \longrightarrow \text{work} \longrightarrow \text{new state}
+\text{state} \longrightarrow \text{perturbation} \longrightarrow \text{work} \longrightarrow \text{new state}
 $$
 
 This is the thermodynamic truth.
@@ -56,13 +56,13 @@ And then the devastating refinement—the governor, as you put it:
 
 $$
 \text{state}
-\longrightarrow;
+\longrightarrow
 \text{perturbation}
-\longrightarrow;
+\longrightarrow
 \text{work}
-\longrightarrow;
+\longrightarrow
 \text{interface}
-\longrightarrow;
+\longrightarrow
 \text{new state}
 $$
 
